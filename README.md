@@ -36,6 +36,11 @@ Installation / Usage
    ```bash
    https://github.com/Vaishnaviii002/Html-Resume
 
-## 📸 Project Screenshot
+ Project Screenshot
 
 ![Resume Website Screenshot](screenshot.png)
+
+##  Live Demo
+
+🔗 **Live Website:** https://html-resume-sooty-phi.vercel.app/
+
