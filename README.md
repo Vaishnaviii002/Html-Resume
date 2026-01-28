@@ -35,3 +35,7 @@ Installation / Usage
 1. Clone the repository:
    ```bash
    https://github.com/Vaishnaviii002/Html-Resume
+
+## 📸 Project Screenshot
+
+![Resume Website Screenshot](screenshot.png)
